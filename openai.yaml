@@ -1,0 +1,4 @@
+interface:
+  display_name: "价格行为分析 (PA)"
+  short_description: "Al Brooks 价格行为学：趋势·突破·反转·信号K线·震荡区间分析"
+  default_prompt: "基于Al Brooks价格行为学分析这只股票的趋势、关键K线信号和交易机会"
